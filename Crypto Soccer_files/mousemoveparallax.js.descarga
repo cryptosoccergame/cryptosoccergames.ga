@@ -1,0 +1,56 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+ $.fn.parallax = function (resistance, mouse) {
+     $el = $(this);
+     TweenLite.to($el, 0.2, {
+         x: -((mouse.clientX - (window.innerWidth / 2)) / resistance),
+         y: -((mouse.clientY - (window.innerHeight / 2)) / resistance)
+     });
+
+ };
+(function ($) {
+        "use strict";
+        $(document).on('mousemove',function (e) {
+            $('.parallax1').parallax(-100, e);
+            $('.parallax2').parallax(20, e);
+            $('.parallax3').parallax(30, e);
+            $('.parallax4').parallax(40, e);
+            $('.parallax5').parallax(40, e);
+        });
+}(jQuery));
+
+
+
+
+}
+/*
+     FILE ARCHIVED ON 13:36:52 Dec 26, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:50:26 Dec 31, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 102.12
+  exclusion.robots: 0.144
+  exclusion.robots.policy: 0.133
+  RedisCDXSource: 1.089
+  esindex: 0.009
+  LoadShardBlock: 72.005 (3)
+  PetaboxLoader3.datanode: 44.191 (4)
+  CDXLines.iter: 25.318 (3)
+  PetaboxLoader3.resolve: 45.738 (2)
+  load_resource: 38.718
+*/

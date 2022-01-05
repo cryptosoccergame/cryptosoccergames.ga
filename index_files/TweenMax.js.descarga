@@ -2238,7 +2238,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
 }
 /*
      FILE ARCHIVED ON 13:36:39 Dec 26, 2021 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:50:26 Dec 31, 2021.
+     INTERNET ARCHIVE ON 22:26:14 Jan 05, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -2246,14 +2246,14 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
 */
 /*
 playback timings (ms):
-  captures_list: 55.016
-  exclusion.robots: 0.13
-  exclusion.robots.policy: 0.123
-  RedisCDXSource: 1.032
-  esindex: 0.007
-  LoadShardBlock: 33.733 (3)
-  PetaboxLoader3.datanode: 75.493 (4)
-  CDXLines.iter: 17.873 (3)
-  load_resource: 173.885
-  PetaboxLoader3.resolve: 126.946
+  captures_list: 139.443
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.073
+  RedisCDXSource: 2.261
+  esindex: 0.008
+  LoadShardBlock: 121.364 (3)
+  PetaboxLoader3.datanode: 42.752 (4)
+  CDXLines.iter: 13.697 (3)
+  PetaboxLoader3.resolve: 240.796 (3)
+  load_resource: 188.906
 */

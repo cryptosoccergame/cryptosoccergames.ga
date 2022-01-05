@@ -952,7 +952,7 @@ window.requestAnimFrame = (function(){
 }
 /*
      FILE ARCHIVED ON 13:37:05 Dec 26, 2021 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:50:26 Dec 31, 2021.
+     INTERNET ARCHIVE ON 22:26:16 Jan 05, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -960,14 +960,14 @@ window.requestAnimFrame = (function(){
 */
 /*
 playback timings (ms):
-  captures_list: 93.265
-  exclusion.robots: 0.139
-  exclusion.robots.policy: 0.131
-  RedisCDXSource: 6.829
+  captures_list: 157.766
+  exclusion.robots: 0.105
+  exclusion.robots.policy: 0.096
+  RedisCDXSource: 1.333
   esindex: 0.009
-  LoadShardBlock: 69.528 (3)
-  PetaboxLoader3.datanode: 62.344 (4)
-  CDXLines.iter: 14.487 (3)
-  load_resource: 28.8
-  PetaboxLoader3.resolve: 24.193
+  LoadShardBlock: 133.629 (3)
+  PetaboxLoader3.datanode: 88.907 (4)
+  CDXLines.iter: 19.973 (3)
+  load_resource: 280.79
+  PetaboxLoader3.resolve: 197.469
 */
